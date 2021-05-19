@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "name": "onurarda",
+      "email": "onurarda@sabanciuniv.edu",
+      "username": "onurarda",
+      "id": 1
+    },
+    {
+      "name": "onurarda",
+      "email": "onurarda",
+      "username": "onurarda",
+      "password": "onurarda",
+      "id": "2",
+      "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/santa_clous_christmas-512.png"
+    },
+    {
+      "name": "onurarda",
+      "email": "onurarda",
+      "username": "onurarda",
+      "password": "onurarda",
+      "id": 3
+    },
+    {
+      "name": "onurarda",
+      "email": "onurarda",
+      "username": "onurarda",
+      "password": "onurarda",
+      "id": 4
+    },
+    {
+      "name": "onur arda bodur",
+      "email": "onurarda@sabanciuniv.edu",
+      "username": "onurarda123",
+      "password": "onur arda bodur",
+      "id": 5
+    },
+    {
+      "name": "Onur Arda Bodur",
+      "email": "onurarda@sabanciuniv.edu",
+      "username": "onurarda123123",
+      "password": "Onur Arda Bodur",
+      "id": 6
+    },
+    {
+      "name": "Onur Arda Bodur",
+      "email": "123123123",
+      "username": "rebellion49",
+      "password": "Onur Arda Bodur",
+      "id": 7
+    },
+    {
+      "name": "Onur Arda Bodur",
+      "email": "123123123",
+      "username": "rebellion49",
+      "password": "Onur Arda Bodur",
+      "id": 8
+    },
+    {
+      "name": "Onur Arda Bodur",
+      "email": "onurarda@sabanciuniv.edu",
+      "username": "rebellion49",
+      "password": "kekeisyanım",
+      "id": "9",
+      "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/avocado_scream_avatar_food-512.png"
+    },
+    {
+      "name": "Onur Arda Bodur",
+      "email": "onurarda@sabanciuniv.edu",
+      "username": "rebellion49",
+      "password": "kekeisyanım",
+      "id": 10
+    },
+    {
+      "name": "Onur Arda Bodur",
+      "email": "onurarda@sabanciuniv.edu",
+      "username": "rebellion49",
+      "password": "kekeisyanım",
+      "id": 11
+    },
+    {
+      "name": "Onur Arda Bodur",
+      "email": "onurarda@sabanciuniv.edu",
+      "username": "rebellion49",
+      "password": "kekeisyanım",
+      "id": 12
+    },
+    {
+      "name": "Onur Arda Bodur",
+      "email": "onurarda@sabanciuniv.edu",
+      "username": "rebellion49",
+      "password": "kekeisyanım",
+      "id": 13
+    },
+    {
+      "name": "Onur Arda Bodur",
+      "email": "onurarda@sabanciuniv.edu",
+      "username": "onurarda123",
+      "password": "onurarda23234",
+      "id": 14
+    },
+    {
+      "email": "onurarda@sabanciunived.ued",
+      "password": "asfdasdfasdf",
+      "id": 15
+    }
+  ],
+  "feeds": [
+    {
+      "id": "2",
+      "username": "flamitum",
+      "name": "Flæmingr Itumeleng",
+      "email": "flamitum@gmail.com",
+      "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/santa_clous_christmas-512.png",
+      "context": "Hello"
+    },
+    {
+      "id": "3",
+      "username": "brittasdream",
+      "name": "Britta Dubaku",
+      "email": "brittasdream@hotmail.com",
+      "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/suicide_squad_woman_avatar_joker-512.png",
+      "context": "Debug post"
+    },
+    {
+      "id": "5",
+      "username": "songster_m",
+      "name": "Mathilde Melaniya",
+      "email": "songstermelanie@sabanciuniv.edu",
+      "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/coffee_zorro_avatar_cup-512.png",
+      "context": "Nice app"
+    },
+    {
+        "id": "6",
+        "username": "europefly",
+        "name": "Marina Europe",
+        "email": "europe@gmail.com",
+        "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/cloud_crying_rain_avatar-512.png",
+        "context": "Debug post"
+      },
+      {
+        "id": "7",
+        "username": "irmaksenol",
+        "name": "Irmak Senol",
+        "email": "irmaksenol@sabanciuniv.edu",
+        "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/geisha_japanese_woman_avatar-512.png",
+        "context": "Debug post"
+      },
+    {
+      "id": "2",
+      "username": "flamitum",
+      "name": "Flæmingr Itumeleng",
+      "email": "flamitum@gmail.com",
+      "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/avocado_scream_avatar_food-512.png",
+      "context": "Hello"
+    },
+    {
+      "id": "3",
+      "username": "brittasdream",
+      "name": "Britta Dubaku",
+      "email": "brittasdream@hotmail.com",
+      "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/suicide_squad_woman_avatar_joker-512.png",
+      "context": "Debug post"
+    },
+    {
+      "id": "5",
+      "username": "songster_m",
+      "name": "Mathilde Melaniya",
+      "email": "songstermelanie@sabanciuniv.edu",
+      "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/coffee_zorro_avatar_cup-512.png",
+      "context": "Debug post"
+    },
+    {
+      "id": "6",
+      "username": "europefly",
+      "name": "Marina Europe",
+      "email": "europe@gmail.com",
+      "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/cloud_crying_rain_avatar-512.png",
+      "context": "Debug post"
+    },
+    {
+      "id": "7",
+      "username": "irmaksenol",
+      "name": "Irmak Senol",
+      "email": "irmaksenol@sabanciuniv.edu",
+      "p_pic": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/geisha_japanese_woman_avatar-512.png",
+      "context": "Debug post"
+    }
+  ],
+  "messages": []
+}
